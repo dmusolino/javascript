@@ -9,6 +9,6 @@ var toDoList = [
 
 for (var i = 0; i<toDoList.length; i++) {
 
-    console.log(toDoList[i] + "!");
+   toDoList[i] = toDoList[i] + "!"
 }
 
