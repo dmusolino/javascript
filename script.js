@@ -5,4 +5,10 @@ var toDoList = [
     "take dog for a walk",
 
 
-]
+];
+
+for (var i = 0; i<toDoList.length; i++) {
+
+    console.log(toDoList[i] + "!");
+}
+
